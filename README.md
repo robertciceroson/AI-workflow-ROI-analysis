@@ -1,6 +1,6 @@
 # AI Workflow ROI Analysis
 
-**Author:** Technical Scrum Master · AI Business Analyst · AI/ML Practitioner · Data Analyst · Prompt Engineer · CSM · CSPO · AI-Empowered SAFe Agilist · Active DoD Secret Clearance
+**Author:** Scrum Master · Process Engineer · Prompt Engineer · Data Analyst · AI/ML Practitioner · CSM · CSPO · AI-Empowered SAFe Agilist · Active DoD Secret Clearance
 
 ---
 
@@ -38,6 +38,10 @@ This repository publishes that methodology using **synthetic data** to protect c
 ---
 
 ## CBA & ROI Model
+
+**👉 [View the model in your browser (no download required)](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Frobertciceroson%2FAI-workflow-ROI-analysis%2Frefs%2Fheads%2Fmain%2FGateway_AI_CBA_ROI.xlsx&wdOrigin=BROWSELINK)**
+
+![CBA & ROI Dashboard Preview](assets/cba_roi_preview.png)
 
 The Excel model (`Gateway_AI_CBA_ROI.xlsx`) is structured across five sections:
 
