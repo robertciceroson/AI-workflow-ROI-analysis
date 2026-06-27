@@ -1,4 +1,4 @@
-
+# AI Workflow ROI Analysis
 
 **Author:** Scrum Master · Process Engineer · Prompt Engineer · Data Analyst · AI/ML Practitioner · CSM · CSPO · AI-Empowered SAFe Agilist · Active DoD Secret Clearance
 
@@ -41,7 +41,7 @@ This repository publishes that methodology using **synthetic data** to protect c
 
 **[⬇️ Download the model (Excel)](Gateway_AI_CBA_ROI.xlsx)**
 
-![CBA & ROI Dashboard Preview](assets/cba_roi_preview.png)
+![CBA & ROI Dashboard Preview](cba_roi_preview.png)
 
 The Excel model (`Gateway_AI_CBA_ROI.xlsx`) is structured across five sections:
 
@@ -57,13 +57,14 @@ The Excel model (`Gateway_AI_CBA_ROI.xlsx`) is structured across five sections:
 
 | Metric | Value |
 |---|---|
-| Annual Labor Savings | ~$64,000 |
-| Total Annual Benefits (Quantified) | ~$115,800 |
-| One-Time Implementation Cost | ~$9,700 |
-| Net Annual Benefit | ~$112,000 |
-| Payback Period | < 2 months |
-| 3-Year Net ROI | > 3,000% |
-| 3-Year Total Value Created | ~$325,000 |
+| Annual Labor Savings | $74,256 |
+| Total Annual Benefits (Quantified) | $126,056 |
+| One-Time Implementation Cost | $9,700 |
+| Annual Operating Cost (Post-AI) | $4,240 |
+| Net Annual Benefit | $121,816 |
+| Payback Period | ~1 month |
+| 3-Year Net ROI | 3,667.5% |
+| 3-Year Total Value Created | $355,748 |
 
 > **Note:** All figures are derived from synthetic assumptions for demonstration purposes. Blue cells in the model are adjustable inputs — update Section 1 to reflect actual client parameters.
 
