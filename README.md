@@ -1,6 +1,6 @@
 # AI Workflow ROI Analysis
 
-**Author:** Scrum Master · Process Engineer · Prompt Engineer · Data Analyst · AI/ML Practitioner · CSM · CSPO · AI-Empowered SAFe Agilist · Active DoD Secret Clearance
+**Author:** Technical Scrum Master · AI Business Analyst · AI/ML Practitioner · Data Analyst · Prompt Engineer · CSM · CSPO · AI-Empowered SAFe Agilist · Active DoD Secret Clearance
 
 ---
 
