@@ -21,18 +21,18 @@ This repository publishes that methodology using **synthetic data** to protect c
 
 ## Use Case: AI Emails Triage & Workflow Automation
 
-**Scenario:** A mid-size operations client (Acme Operations Group — synthetic) was spending significant staff time manually triaging, categorizing, and routing inbound emails across four departments. Gateway AI Advisory implemented an AI-powered email triage and routing automation using Make.com, LLM API integration, and a structured routing logic layer.
+**Scenario:** A mid-size operations client (Acme Operations Group — synthetic) was spending significant staff time manually triaging, categorizing, and routing inbound emails across four departments. Gateway AI Advisory implemented an AI-powered emails triage and routing automation using Make.com, LLM API integration, and a structured routing logic layer.
 
 **Problem Statement:**
-- 4 FTEs spending ~7 hours/week each on manual email triage
+- 4 FTEs spending ~7 hours/week each on manual emails triage
 - Average response/routing time: 4–6 hours
-- ~15% email misrouting rate causing downstream rework
-- No visibility into email volume trends or routing patterns
+- ~15% emails misrouting rate causing downstream rework
+- No visibility into emails volume trends or routing patterns
 
 **Solution Implemented:**
-- AI Email Triage automation built in Make.com with LLM classification
+- AI Emails Triage automation built in Make.com with LLM classification
 - Automated routing to correct department/owner based on intent detection
-- Dashboard reporting on volume, routing accuracy, and SLA compliance
+- Dashboard reporting on volume, routing accuracy, and Service Level Agreement (SLA) compliance
 - Staff training and adoption support delivered over 2-week onboarding sprint
 
 ---
@@ -47,7 +47,7 @@ The Excel model (`Gateway_AI_CBA_ROI.xlsx`) is structured across five sections:
 
 | Section | Contents |
 |---|---|
-| **1 — Key Assumptions** | All input variables in blue — adjustable for any client scenario |
+| **1 — Key Assumptions** | All input variables in blue — adjustable inputs to reflect actual client parameters/scenario |
 | **2 — Cost Analysis** | Pre-AI vs. Post-AI cost comparison with annual savings and % reduction |
 | **3 — Benefit Analysis** | Quantified benefits by category with confidence ratings (High / Medium) |
 | **4 — ROI Summary** | One-time cost, net annual benefit, payback period, 3-Year Net ROI, 3-Year total value |
@@ -90,7 +90,7 @@ Quantify benefits across four categories:
 - **Strategic redeployment** — value of staff time redirected to higher-value work
 
 **Step 4 — ROI Calculation & Executive Presentation**
-Calculate net annual benefit, payback period, and multi-year ROI. Present findings in a client-facing format that translates technical outcomes into business impact language for non-technical stakeholders.
+Calculate net annual benefit, payback period, and multi-year ROI. Present findings in a client-facing format that translates technical outcomes into business impact language for non-technical stakeholders and Executives who are concerned with bottom-line impact.
 
 ### Benefit Confidence Rating
 
