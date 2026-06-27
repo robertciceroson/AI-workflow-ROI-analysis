@@ -19,7 +19,7 @@ This repository publishes that methodology using **synthetic data** to protect c
 
 ---
 
-## Use Case: AI Email Triage & Workflow Automation
+## Use Case: AI Emails Triage & Workflow Automation
 
 **Scenario:** A mid-size operations client (Acme Operations Group — synthetic) was spending significant staff time manually triaging, categorizing, and routing inbound emails across four departments. Gateway AI Advisory implemented an AI-powered email triage and routing automation using Make.com, LLM API integration, and a structured routing logic layer.
 
