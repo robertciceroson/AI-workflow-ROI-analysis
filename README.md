@@ -1,6 +1,6 @@
 # AI Workflow ROI Analysis
 
-**Author:** Scrum Master · Process Engineer · Prompt Engineer · Data Analyst · AI/ML Practitioner · CSM · CSPO · AI-Empowered SAFe Agilist · Active DoD Secret Clearance
+**Author:** Technical Scrum Master · AI Business Analyst · AI/ML Practitioner · Data Analyst · Prompt Engineer · CSM · CSPO · AI-Empowered SAFe Agilist · Active DoD Secret Clearance
 
 ---
 
@@ -13,7 +13,7 @@ At **Gateway AI Advisory**, cost-benefit analysis and ROI reporting are standing
 - **Before/after time and cost savings** — quantified at the task, team, and organizational level
 - **Efficiency metrics** — hours recovered, error rate reduction, response time improvement
 - **Value realization** — net annual benefit, payback period, and multi-year ROI
-- **Executive-ready presentation** — results communicated clearly to non-technical stakeholders
+- **Executive-ready presentation** — results communicated clearly to non-technical stakeholders and Executives who are concerned with bottom-line impact
 
 This repository publishes that methodology using **synthetic data** to protect client confidentiality while demonstrating the full analytical framework in a real-world context.
 
@@ -24,15 +24,15 @@ This repository publishes that methodology using **synthetic data** to protect c
 **Scenario:** A mid-size operations client (Acme Operations Group — synthetic) was spending significant staff time manually triaging, categorizing, and routing inbound emails across four departments. Gateway AI Advisory implemented an AI-powered emails triage and routing automation using Make.com, LLM API integration, and a structured routing logic layer.
 
 **Problem Statement:**
-- 4 FTEs spending ~7 hours/week each on manual emails triage
+- 4 FTEs spending ~7 hours/week each on manual email triage
 - Average response/routing time: 4–6 hours
-- ~15% emails misrouting rate causing downstream rework
-- No visibility into emails volume trends or routing patterns
+- ~15% email misrouting rate causing downstream rework
+- No visibility into email volume trends or routing patterns
 
 **Solution Implemented:**
 - AI Emails Triage automation built in Make.com with LLM classification
 - Automated routing to correct department/owner based on intent detection
-- Dashboard reporting on volume, routing accuracy, and Service Level Agreement (SLA) compliance
+- Dashboard reporting on volume, routing accuracy, and SLA compliance
 - Staff training and adoption support delivered over 2-week onboarding sprint
 
 ---
@@ -47,7 +47,7 @@ The Excel model (`Gateway_AI_CBA_ROI.xlsx`) is structured across five sections:
 
 | Section | Contents |
 |---|---|
-| **1 — Key Assumptions** | All input variables in blue — adjustable inputs to reflect actual client parameters/scenario |
+| **1 — Key Assumptions** | All input variables in blue — adjustable for any client scenario |
 | **2 — Cost Analysis** | Pre-AI vs. Post-AI cost comparison with annual savings and % reduction |
 | **3 — Benefit Analysis** | Quantified benefits by category with confidence ratings (High / Medium) |
 | **4 — ROI Summary** | One-time cost, net annual benefit, payback period, 3-Year Net ROI, 3-Year total value |
@@ -107,11 +107,11 @@ Each benefit line is rated by confidence level:
 ## Repository Contents
 
 ```
-ai-workflow-roi-analysis/
+AI-workflow-ROI-analysis/
 │
 ├── README.md                        # This file
 ├── Gateway_AI_CBA_ROI.xlsx          # Full CBA & ROI Excel model (synthetic data)
-└── cba_roi_preview.png              # Dashboard screenshot (optional)
+└── cba_roi_preview.png              # Dashboard screenshot
 ```
 
 ---
@@ -139,7 +139,7 @@ All data in this repository — including client names, staff counts, hourly rat
 
 Three Make.com automation scenarios built and deployed as part of Gateway AI Advisory engagements:
 
-- **AI Email Triage & Workflow Routing:** https://us2.make.com/public/shared-scenario/Mjk3pseVejK/ai-email-triage-and-work-flow-routing
+- **AI Emails Triage & Workflow Routing:** https://us2.make.com/public/shared-scenario/Mjk3pseVejK/ai-email-triage-and-work-flow-routing
 - **Emails Triage — Lead / Mkt / Svc / Other:** https://us2.make.com/public/shared-scenario/Lyo5kBZHiJe/emails-triage-lead-mkt-svc-other-for-rev
 - **Weather Integration:** https://us2.make.com/public/shared-scenario/0GNqyWWBf8P/integration-weather
 
