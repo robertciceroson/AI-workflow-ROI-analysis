@@ -111,8 +111,7 @@ ai-workflow-roi-analysis/
 │
 ├── README.md                        # This file
 ├── Gateway_AI_CBA_ROI.xlsx          # Full CBA & ROI Excel model (synthetic data)
-└── assets/
-    └── cba_roi_preview.png          # Dashboard screenshot (optional)
+└── cba_roi_preview.png              # Dashboard screenshot (optional)
 ```
 
 ---
