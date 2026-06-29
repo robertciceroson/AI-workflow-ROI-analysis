@@ -139,7 +139,7 @@ All data in this repository — including client names, staff counts, hourly rat
 
 Three Make.com automation scenarios built and deployed as part of Gateway AI Advisory engagements:
 
-- **AI Emails Triage & Workflow Routing:** https://us2.make.com/public/shared-scenario/Mjk3pseVejK/ai-email-triage-and-work-flow-routing
+- **AI Emails Triage & Workflow Routing:** https://us2.make.com/public/shared-scenario/DGcQteIjhPb/ai-emails-triage-and-work-flow-routing
 - **Emails Triage — Lead / Mkt / Svc / Other:** https://us2.make.com/public/shared-scenario/Lyo5kBZHiJe/emails-triage-lead-mkt-svc-other-for-rev
 - **Weather Integration:** https://us2.make.com/public/shared-scenario/0GNqyWWBf8P/integration-weather
 
