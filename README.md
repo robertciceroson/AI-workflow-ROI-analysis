@@ -145,4 +145,5 @@ Three Make.com automation scenarios built and deployed as part of Gateway AI Adv
 
 ---
 
-*Part of the Robert C. Son AI/ML & Process Engineering Portfolio — [github.com/robertciceroson](https://github.com/robertciceroson)*
+*Part of the Robert Cicero Son AI/ML & Process Engineering Portfolio — [github.com/robertciceroson](https://github.com/robertciceroson)*
+Technical Scrum Master · AI Business Process Analyst · Data Analyst · Translating AI/ML into ROI · CSM · CSPO · AI-Empowered SAFe Agilist · Active DoD Secret Clearance
