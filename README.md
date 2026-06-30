@@ -126,6 +126,7 @@ AI-workflow-ROI-analysis/
 | [Airbnb-Price-Prediction](https://github.com/robertciceroson/Airbnb-Price-Prediction) | XGBoost/Random Forest regression model |
 | [Heart-Disease-Risk-Prediction](https://github.com/robertciceroson/Heart-Disease-Risk-Prediction) | Classification model, ~0.92+ ROC-AUC |
 | [NLP-Movie-Review-Sentiment-Classifier](https://github.com/robertciceroson/NLP-Movie-Review-Sentiment-Classifier) | DistilBERT, ~91% accuracy, 0.97 ROC-AUC |
+| [Executive Weekly Briefing Dashboard](https://robertciceroson.github.io/process-engineering-portfolio/executive-dashboard/) | Interactive HTML dashboard — filterable sections, Make.com + Gemini 2.5 Flash |
 
 ---
 
