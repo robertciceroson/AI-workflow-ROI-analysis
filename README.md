@@ -120,7 +120,7 @@ AI-workflow-ROI-analysis/
 
 | Repository | Description |
 |---|---|
-| [process-engineering-portfolio](https://github.com/robertciceroson/process-engineering-portfolio) | 16 published BPMN/swimlane process diagrams across DoD and commercial engagements |
+| [process-engineering-portfolio](https://github.com/robertciceroson/process-engineering-portfolio) | 19 published BPMN/swimlane/flowchart/VSM process diagrams across DoD and commercial engagements |
 | [HR-Policy-QA-Bot](https://github.com/robertciceroson/HR-Policy-QA-Bot) | Production RAG application — LangChain, FAISS, Groq Llama 3.3 70B, Streamlit |
 | [selenium-eligibility-automation](https://github.com/robertciceroson/selenium-eligibility-automation) | 41/41 Selenium + pytest tests, GitHub Actions CI/CD |
 | [Airbnb-Price-Prediction](https://github.com/robertciceroson/Airbnb-Price-Prediction) | XGBoost/Random Forest regression model |
