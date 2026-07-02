@@ -39,7 +39,7 @@ This repository publishes that methodology using **synthetic data** to protect c
 
 ## CBA & ROI Model
 
-**[⬇️ Download the model (Excel)](Gateway_AI_CBA_ROI.xlsx)**
+**[▶ Open Interactive Model (Google Sheets)](https://docs.google.com/spreadsheets/d/1EVz2vaeOSHu5mjn9EpmmQTRi55DBbRtIgxBc3a2PN_I/edit?usp=sharing)** — edit the blue input cells (Section 1) to model your own AI workflow automation scenario. All calculations update automatically.
 
 ![CBA & ROI Dashboard Preview](cba_roi_preview.png)
 
